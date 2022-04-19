@@ -1,5 +1,5 @@
 # Media-and-Entertainment
-This repository will be used to do analysis on OTT platforms.
+This repository will be used to do analysis on OTT platforms and develop a recommendation sysytem for the users.
 
 
 

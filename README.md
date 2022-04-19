@@ -3,18 +3,13 @@ This repository will be used to do analysis on OTT platforms.
 
 
 
-Team Details:-
-Bhawna Gupta(Team Represntative)
+# Team Details:-
+Team Members:-
 
-
+Bhawna Gupta(Team Representative)
 
 Anzori Jain 
 
-
-
-
 Shruti Gour
-
-
 
 Supriya Singh
